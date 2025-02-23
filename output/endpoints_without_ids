@@ -1,0 +1,14 @@
+/channels
+/channels/
+/channels//messages
+/channels//presence
+/channels//presence/history
+/keys//requestToken
+/push/channelSubscriptions
+/push/channels
+/push/deviceRegistrations
+/push/deviceRegistrations/
+/push/deviceRegistrations//resetUpdateToken
+/push/publish
+/stats
+/time

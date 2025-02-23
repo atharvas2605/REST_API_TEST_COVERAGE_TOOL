@@ -1,0 +1,7 @@
+/channels//presence
+/channels//presence/history
+/keys//requestToken
+/push/deviceRegistrations//resetUpdateToken
+/push/publish
+/stats
+/time

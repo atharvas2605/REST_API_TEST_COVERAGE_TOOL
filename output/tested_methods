@@ -1,0 +1,16 @@
+/push/channelSubscriptions:Post
+/push/channels:Get
+/push/channels:Parameters
+/push/deviceRegistrations:Delete
+/push/deviceRegistrations:Get
+/push/deviceRegistrations:Parameters
+/push/deviceRegistrations:Post
+/push/deviceRegistrations/:Delete
+/push/deviceRegistrations/:Get
+/channels:Get
+/channels:Parameters
+/channels/:Get
+/channels/:Parameters
+/channels//messages:Get
+/channels//messages:Parameters
+/channels//messages:Post
